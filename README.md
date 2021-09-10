@@ -1,4 +1,5 @@
 # Comsc230-Assignment1-HTML
+# Maeve Kenny
 
 First assignment basic html and css.
 
